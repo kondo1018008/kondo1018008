@@ -1,8 +1,12 @@
 # kondo1018008
 ### Hi there 👋
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kondo1018008&show_icons=true&theme=dracula)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kondo1018008&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kondo1018008&theme=dracula" />
+</a>
 
 <!--
 **kondo1018008/kondo1018008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
