@@ -1,5 +1,5 @@
 # kondo1018008
-### Hi there 👋
+### 個人開発用アカウント
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=kondo1018008&show_icons=true&theme=dracula&count_private=true" />
